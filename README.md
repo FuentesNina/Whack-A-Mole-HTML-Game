@@ -6,6 +6,8 @@ positioning, hover effects, transitions, and overflow.
 You can use these files to play a quick game of Whack-A-Mole that you can play and share with your
 friends!
 
+GET STARTED BY GOING TO: https://fuentesnina.github.io/Whack-A-Mole-HTML-Game/mole.html
+
 ![Final game movie]
 
 
